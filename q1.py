@@ -23,8 +23,6 @@
 # After running the program, the user can choose whether to redo the encryption and decryption process:
 # - Prompt the user if they want to retry with different n and m values or exit the program.
 
-# Here is the complete code:
-
 # Function to encrypt the text based on given rules
 def encrypt_text(text, n, m):
     encrypted_text = []
